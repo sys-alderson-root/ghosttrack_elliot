@@ -1,4 +1,4 @@
-# GhostTrack v1.0 🕵️‍♂️
+# Ghosttrack-v1.0 🕵️‍♂️
 
 Un outil OSINT (Open Source Intelligence) éducatif développé en Python par **sys-alderson-root**. 
 Il permet de collecter des informations publiques sur des adresses IP, des numéros de téléphone, des noms d'utilisateur et des emails.
@@ -15,10 +15,14 @@ Il permet de collecter des informations publiques sur des adresses IP, des numé
 N'utilisez jamais cet outil sur des systèmes ou des personnes sans autorisation explicite. L'auteur décline toute responsabilité en cas d'utilisation malveillante.
 
 ## ⚙️ Installation
+Avant de lancer l'outil, installe les dépendances requises :
 ```bash
 pip install requests phonenumbers
-## 🚀 Utilisation
-python ghosttrack_elliot.py
+
 ## 👨‍💻 Auteur
-sys-alderson-root
-"Control is an illusion."
+**Created by:** `sys-alderson-root` (Ton nom / Ton pseudo)
+> *"We are fsociety. We are finally awake."*
+> *"Control is an illusion."*
+
+🚀 Utilisation
+python ghosttrack_elliot.py
